@@ -1,7 +1,7 @@
 from datetime import datetime
 
 name = input("What's your name? ")
-print("Hello, ", name,"!")
+print("Hello")
 print('We lern Git')
 print('It is three')
 print('It is fourth line')
